@@ -1,0 +1,13 @@
+c:\users\luis felipe\documents\visual studio 2015\Projects\prestamos\prestamos\bin\Debug\prestamos.exe.config
+c:\users\luis felipe\documents\visual studio 2015\Projects\prestamos\prestamos\obj\Debug\prestamos.csprojResolveAssemblyReference.cache
+c:\users\luis felipe\documents\visual studio 2015\Projects\prestamos\prestamos\bin\Debug\prestamos.exe
+c:\users\luis felipe\documents\visual studio 2015\Projects\prestamos\prestamos\bin\Debug\prestamos.pdb
+c:\users\luis felipe\documents\visual studio 2015\Projects\prestamos\prestamos\obj\Debug\prestamos.exe
+c:\users\luis felipe\documents\visual studio 2015\Projects\prestamos\prestamos\obj\Debug\prestamos.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\prestamos\prestamos\obj\Debug\prestamos.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\prestamos\prestamos\obj\Debug\prestamos.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\prestamos\prestamos\obj\Debug\prestamos.pdb
+C:\Users\pc\Documents\prestamos\prestamos\obj\Debug\prestamos.csprojAssemblyReference.cache
+C:\Users\pc\Documents\prestamos\prestamos\obj\Debug\prestamos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\prestamos\prestamos\obj\Debug\prestamos.exe
+C:\Users\pc\Documents\prestamos\prestamos\obj\Debug\prestamos.pdb
